@@ -15,3 +15,9 @@ This project uses **3 Convolutional Networks** (With Batch Normalization, Activa
 
 ### Learning Rate
 To increase the convergence with gettin accurate results, Keras **Exponential Decay Function** is used. 
+
+## Results
+The model aquires **75.13%** accuracy on the validation set.
+
+Graph of the Loss and Accuracy over epoch :
+![Loss and Accuracy](files/Loss_accuracy.png)
